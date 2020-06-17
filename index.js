@@ -1,3 +1,4 @@
+function start(){
 alert("왜들어옴");
 alert("ㅋㅋ 낚였다는거 모르니);
 var x=0;
@@ -9,4 +10,5 @@ x++
 }
 alert(y + "/1000쯤 옴");
 y++
+}
 }
